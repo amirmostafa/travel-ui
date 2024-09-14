@@ -1,0 +1,42 @@
+[
+    {
+        "image":"assets/images/listing/1.jpg",
+        "place":"Rome, Italy",
+        "hotel":"3 Hotels"
+    },
+    {
+        "image":"assets/images/listing/2.jpg",
+        "place":"Singapore",
+        "hotel":"3 Hotels"
+    },
+    {
+        "image":"assets/images/listing/3.jpg",
+        "place":"Paris, France",
+        "hotel":"3 Hotels"
+    },
+    {
+        "image":"assets/images/listing/4.jpg",
+        "place":"Goa, India",
+        "hotel":"3 Hotels"
+    },
+    {
+        "image":"assets/images/listing/5.jpg",
+        "place":"Whistler, Canada",
+        "hotel":"3 Hotels"
+    },
+    {
+        "image":"assets/images/listing/6.jpg",
+        "place":"Kuala Lumpur, Malaysia",
+        "hotel":"3 Hotels"
+    },
+    {
+        "image":"assets/images/listing/7.jpg",
+        "place":"Sydney, Australia",
+        "hotel":"3 Hotels"
+    },
+    {
+        "image":"assets/images/listing/8.jpg",
+        "place":"Virginia Beach",
+        "hotel":"3 Hotels"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "image":"assets/images/blog/1.jpg",
+        "date":"13th Sep 2024",
+        "tag":"Travel",
+        "title":"This Spanish city is a feast for the eyes: Travosy",
+        "desc":"This is required when, for example, the final text is not yet available."
+    },
+    {
+        "id":2,
+        "image":"assets/images/blog/2.jpg",
+        "date":"29th Now 2024",
+        "tag":"Tour",
+        "title":"New Zealand’s South Island brims with majestic",
+        "desc":"This is required when, for example, the final text is not yet available."
+    },
+    {
+        "id":3,
+        "image":"assets/images/blog/3.jpg",
+        "date":"29th Dec 2024",
+        "tag":"Tourist",
+        "title":"When you visit the Eternal Rome City: Travosy",
+        "desc":"This is required when, for example, the final text is not yet available."
+    },
+    {
+        "id":4,
+        "image":"assets/images/blog/4.jpg",
+        "date":"13th March 2024",
+        "tag":"Flight",
+        "title":"My Story When I Backpacked Around The World",
+        "desc":"This is required when, for example, the final text is not yet available."
+    },
+    {
+        "id":5,
+        "image":"assets/images/blog/5.jpg",
+        "date":"5th May 2024",
+        "tag":"Arab",
+        "title":"Organization of accounting at the enterprise",
+        "desc":"This is required when, for example, the final text is not yet available."
+    },
+    {
+        "id":6,
+        "image":"assets/images/blog/6.jpg",
+        "date":"19th June 2024",
+        "tag":"Dubai",
+        "title":"Three of the Best Day Trips to Make from Francisco",
+        "desc":"This is required when, for example, the final text is not yet available."
+    },
+    {
+        "id":7,
+        "image":"assets/images/blog/7.jpg",
+        "date":"20th June 2024",
+        "tag":"Maldivas",
+        "title":"Why Do People Travel ? Reasons People Travel in 2023",
+        "desc":"This is required when, for example, the final text is not yet available."
+    },
+    {
+        "id":8,
+        "image":"assets/images/blog/8.jpg",
+        "date":"31st Aug 2024",
+        "tag":"News",
+        "title":"Jungles In Australia: Vermont’s Rugged, Retro Ski Mountain",
+        "desc":"This is required when, for example, the final text is not yet available."
+    },
+    {
+        "id":9,
+        "image":"assets/images/blog/9.jpg",
+        "date":"1st Sep 2024",
+        "tag":"Packages",
+        "title":"Traveller Visiting Ice Cave With Amazing Eye-catching Scenes",
+        "desc":"This is required when, for example, the final text is not yet available."
+    }
+]

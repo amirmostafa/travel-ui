@@ -1,0 +1,89 @@
+[
+    {
+        "id":1,
+        "image":"assets/images/listing/1.jpg",
+        "tag":"10% Off",
+        "place":"Dubai",
+        "title":"Cuba Sailing Adventure",
+        "amount":"$ 58 / Day"
+    },
+    {
+        "id":2,
+        "image":"assets/images/listing/2.jpg",
+        "place":"Italy",
+        "title":"Tour in New York",
+        "amount":"$ 58 / Day"
+    },
+    {
+        "id":3,
+        "image":"assets/images/listing/3.jpg",
+        "place":"Maldivas",
+        "title":"Discover Greece",
+        "amount":"$ 58 / Day"
+    },
+    {
+        "id":4,
+        "image":"assets/images/listing/4.jpg",
+        "place":"USA",
+        "title":"Museum of Modern Art",
+        "amount":"$ 58 / Day"
+    },
+    {
+        "id":5,
+        "image":"assets/images/listing/5.jpg",
+        "place":"Bali",
+        "title":"Peek Mountain View",
+        "amount":"$ 58 / Day"
+    },
+    {
+        "id":6,
+        "image":"assets/images/listing/6.jpg",
+        "tag":"25% Off",
+        "place":"Bangkok",
+        "title":"Hot Baloon Journey",
+        "amount":"$ 58 / Day"
+    },
+    {
+        "id":7,
+        "image":"assets/images/listing/7.jpg",
+        "place":"Singapore",
+        "title":"Orca Camp Kayaking Trip",
+        "amount":"$ 58 / Day"
+    },
+    {
+        "id":8,
+        "image":"assets/images/listing/8.jpg",
+        "tag":"20% Off",
+        "place":"Thailand",
+        "title":"Caño Cristales River Trip",
+        "amount":"$ 58 / Day"
+    },
+    {
+        "id":9,
+        "image":"assets/images/listing/9.jpg",
+        "place":"Pattaya",
+        "title":"Osa Peninsula to Dominical",
+        "amount":"$ 58 / Day"
+    },
+    {
+        "id":10,
+        "image":"assets/images/listing/10.jpg",
+        "place":"Lakshadweep",
+        "title":"History of The Emporer",
+        "amount":"$ 58 / Day"
+    },
+    {
+        "id":11,
+        "image":"assets/images/listing/11.jpg",
+        "place":"Paris",
+        "title":"Wildness of Paris",
+        "amount":"$ 58 / Day"
+    },
+    {
+        "id":12,
+        "image":"assets/images/listing/12.jpg",
+        "place":"London",
+        "title":"The Hills and Mountains",
+        "amount":"$ 58 / Day"
+    }
+]
